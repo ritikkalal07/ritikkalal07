@@ -26,9 +26,9 @@
 | Project | Problem it solves | Stack |
 |---|---|---|
 | **Truth Engine API** | Verifiable AI outputs at scale | Node · AI APIs |
-| **Maintenance Platform** | Ops chaos → structured workflow | MERN |
+| **Maintenance Platform** | Ops chaos → structured workflow | MEAN |
 | **Booking System** | Scheduling infra from scratch | MERN · Calendar logic |
-| **Freelancing Marketplace** | 2-sided trust + match engine | MERN · Auth |
+| **Freelancing Marketplace** | 2-sided trust + match engine | Python Django · Auth |
 
 ---
 
