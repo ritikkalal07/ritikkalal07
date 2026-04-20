@@ -23,13 +23,13 @@
 
 ### what I'm building
 
-| Project | Problem it solves | Stack |
+| Product | Core Problem | System Built |
 |---|---|---|
-| **Truth Engine API** | Verifiable AI outputs at scale | Node · AI APIs |
-| **Maintenance Platform** | Ops chaos → structured workflow | MEAN |
-| **Booking System** | Scheduling infra from scratch | MERN · Calendar logic |
-| **Freelancing Marketplace** | 2-sided trust + match engine | Python Django · Auth |
-
+| **Londary** | Unorganized laundry → seamless service lifecycle | MERN · Maps · Tracking |
+| **Truth Engine API** | Trust deficit in AI outputs | Node · AI APIs |
+| **Maintenance OS** | Operational chaos in asset management | MEAN Stack |
+| **Booking Engine** | Manual scheduling inefficiencies | MERN · Calendar Logic |
+| **Gig Marketplace** | Talent discovery & trust gap | Django · Auth System |
 ---
 
 ### how I think
