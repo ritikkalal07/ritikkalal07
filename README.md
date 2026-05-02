@@ -73,7 +73,6 @@ System Design            ███████████████       78%
 
 
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikkalal07&show_icons=true&theme=default&hide_border=true&hide_rank=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkalal07&layout=compact&hide_border=true&theme=default)
 
